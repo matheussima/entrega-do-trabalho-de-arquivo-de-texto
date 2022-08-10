@@ -1,0 +1,17 @@
+4
+U
+(1, 2, 10, 30)
+(2, 40, 50, 5)
+I
+(27, 15, 11)
+(15, 27, 58, 35)
+D
+(1, 13, 6, 4)
+(13, 15, 16)
+C
+(32, 2)
+(4, 5, 6, 7)
+União: conjunto 1 {1,2,10,30}, conjunto 2 {2,40,50,5} Resultado: {1,2,5,10,30,40,50}
+Interseção: conjunto 1 {27, 15, 11}, conjunto 2 {15, 27, 58, 35}. Resultado: {15,27}
+Diferença: conjunto 1 {1, 13, 6, 4}, conjunto 2 {13, 15, 16}. Resultado: {1,4,6}
+Produto Cartesiano: conjunto 1 {32, 2}, conjunto 2 {4, 5, 6, 7}. Resultado: {(32,4);(32,5);(32,6);(32,7);(2,4);(2,5);(2,6);(2,7)} 
